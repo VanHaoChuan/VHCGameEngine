@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1554391684 source:f:\program\cpp\vhcgameengine\src\graphicsenv.cpp
+	"GraphicsEnv.h"
+
+1554391683 f:\program\cpp\vhcgameengine\include\graphicsenv.h
+
+1554392042 source:f:\program\cpp\vhcgameengine\src\spirit.cpp
+	"Spirit.h"
+
+1554391979 f:\program\cpp\vhcgameengine\include\spirit.h
+
+1554392084 source:f:\program\cpp\vhcgameengine\main.cpp
+	<tchar.h>
+	<windows.h>
+	"Spirit.h"
+
